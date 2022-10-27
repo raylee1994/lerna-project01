@@ -1,5 +1,5 @@
 function logger() {
-  console.log('v1');
+  console.log('v2');
 }
 
 module.exports = logger
