@@ -6,5 +6,10 @@
     "packages/*"
   ],
   "version": "independent",
+  "command": {
+    "version": {
+      "changelogPreset": "angular"
+    }
+  },
   "changelogPreset": "angular"
 }
