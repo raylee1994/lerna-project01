@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/raylee1994/lerna-project01/compare/pkg1@0.3.0...pkg1@0.4.0) (2022-10-28)
+
+
+### Features
+
+* pkgb2 ([70bced0](https://github.com/raylee1994/lerna-project01/commit/70bced0bd08441fea4e0b8a30dabaae8f42679b7))
+
+
+
+
+
 # [0.3.0](https://github.com/raylee1994/lerna-project01/compare/pkg1@0.2.0...pkg1@0.3.0) (2022-10-28)
 
 
