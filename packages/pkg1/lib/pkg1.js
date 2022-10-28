@@ -3,5 +3,5 @@
 module.exports = pkg1;
 
 function pkg1() {
-    return "Hello from pkg1 v2";
+    return "Hello from pkg1 v3";
 }
