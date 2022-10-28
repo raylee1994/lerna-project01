@@ -1,5 +1,5 @@
 function logger() {
-  console.log('v3');
+  console.log('v4');
 }
 
 module.exports = logger
