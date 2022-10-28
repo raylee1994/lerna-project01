@@ -1,5 +1,5 @@
 function prompt() {
-  window.prompt('111')
+  window.prompt('v1')
 }
 
 module.exports = prompt
